@@ -10,3 +10,7 @@ The background of this project deals with stock analysis.  Steve's parents purch
 
 ## Results
 
+
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
